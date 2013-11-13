@@ -10,4 +10,8 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
+*.gif
+*.png
+*.jpg
+
 # question: would log/archive/access.log be ignored? No.
